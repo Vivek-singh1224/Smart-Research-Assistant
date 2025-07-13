@@ -31,3 +31,9 @@ A modular AI-powered assistant that reads PDF or TXT documents, generates summar
 - Auto summarize in ≤150 words
 - Ask Anything Q&A with justification
 - “Challenge Me” mode with 3 questions + feedback
+
+<img width="1600" height="733" alt="image" src="https://github.com/user-attachments/assets/4c82a232-9bba-44c0-9342-f1b3378c84f9" />
+
+<img width="1600" height="732" alt="image" src="https://github.com/user-attachments/assets/d9f5ab2f-5ce7-459c-86d3-0f78d9fef72d" />
+
+
