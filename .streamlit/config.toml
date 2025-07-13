@@ -1,0 +1,6 @@
+[theme]
+base="light"
+primaryColor="#5e60ce"                # Soft purple-blue for highlights/buttons
+backgroundColor="#f8f9fc"             # Clean, almost-white background
+secondaryBackgroundColor="#e0e7ff"    # Light lavender-blue cards/side panels
+textColor="#1e293b"                   # Dark slate gray for readable text
