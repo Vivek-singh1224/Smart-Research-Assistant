@@ -1,6 +1,7 @@
 # 🧠 Smart Assistant for Research Summarization
 
 A modular AI-powered assistant that reads PDF or TXT documents, generates summaries, answers questions, and challenges users with logical reasoning tasks.
+Project Link - https://smart-research.streamlit.app/
 
 ## 🖥️ Setup Instructions
 
